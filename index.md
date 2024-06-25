@@ -1,6 +1,6 @@
 ---
-title: "Business Technology Architecture Body of Knowledge"
-keywords: BTABoK
+title: "[THIS IS A TEST] - P Business Technology Architecture Body of Knowledge"
+keywords: BTABoK TEST
 sidebar: mydoc_sidebar
 permalink: index.html
 ---
